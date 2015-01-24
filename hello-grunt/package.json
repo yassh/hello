@@ -1,0 +1,8 @@
+{
+  "name": "hello",
+  "version": "0.0.0",
+  "description": "「こんにちは！」って言います。",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
